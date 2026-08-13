@@ -1,0 +1,416 @@
+{
+  "items": [
+    {
+      "description": "Before this list, there exist other lists to summarize the resources about SDN, such as Google SDN Reading List, ONF Recommended SDN Reading List and Awesome SDN from sdnds-tw. But these lists only focus on one aspect of the classic research papers, popular opensource projects and well-known communities. In my opinion, a comprehensive list about all of the aspects I just mentioned is necessary. Both beginners and professional people will benefit from it.",
+      "items": [],
+      "title": "Background"
+    },
+    {
+      "description": "The initial version is forked from SDNDS-TW but re-organized. Thanks again!",
+      "items": [],
+      "title": "Software Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Floodlight",
+          "description": "A java-based openflow controller.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-26T21:23:22Z",
+            "owner": "floodlight",
+            "repo": "floodlight",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POX",
+          "description": "A networking software platform written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-19T18:35:05Z",
+            "owner": "noxrepo",
+            "repo": "pox",
+            "stars": 648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NOX",
+          "description": "An open source development platform for C++-based software-defined networking (SDN) control applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-02-14T18:21:39Z",
+            "owner": "noxrepo",
+            "repo": "nox",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beehive Network Controller",
+          "description": "A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-03-14T04:20:33Z",
+            "owner": "kandoo",
+            "repo": "beehive-netctrl",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NodeFlow",
+          "description": "An OpenFlow Controller Node Style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2012-06-25T20:22:56Z",
+            "owner": "gaberger",
+            "repo": "NodeFLow",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vyatta",
+          "description": "The first commercial Controller built directly from OpenDaylight.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-10-17T12:20:13Z",
+            "owner": "BRCDcomm",
+            "repo": "BVC",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OESS",
+          "description": "The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-12T06:19:01Z",
+            "owner": "GlobalNOC",
+            "repo": "OESS",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ravel",
+          "description": "A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-20T13:31:52Z",
+            "owner": "ravel-net",
+            "repo": "ravel",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Controller"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "snabbswitch",
+          "description": "An open source virtualized Ethernet networking stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-30T10:02:42Z",
+            "owner": "snabbco",
+            "repo": "snabb",
+            "stars": 3034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPqD",
+          "description": "An OpenFlow 1.3 compatible user-space software switch implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-07-06T15:22:21Z",
+            "owner": "CPqD",
+            "repo": "ofsoftswitch13",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LINC-Switch",
+          "description": "A pure OpenFlow software switch written in Erlang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2015-08-26T16:06:22Z",
+            "owner": "FlowForwarding",
+            "repo": "LINC-Switch",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Indigo",
+          "description": "Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-09-29T16:20:51Z",
+            "owner": "floodlight",
+            "repo": "indigo",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Software Switch"
+    },
+    {
+      "description": "TBD",
+      "items": [],
+      "title": "SDN Application"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlowVisor",
+          "description": "An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2013-09-18T19:06:18Z",
+            "owner": "opennetworkinglab",
+            "repo": "flowvisor",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVirtex",
+          "description": "A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-17T03:41:29Z",
+            "owner": "os-libera",
+            "repo": "OpenVirteX",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Network Virtualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "loxigen",
+          "description": "LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-15T11:32:31Z",
+            "owner": "floodlight",
+            "repo": "loxigen",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openfaucet",
+          "description": "openfaucet is a pure Python implementation of the OpenFlow 1.0.0 protocol, based on Twisted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-10-10T05:35:12Z",
+            "owner": "rlenglet",
+            "repo": "openfaucet",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oflib-node",
+          "description": "Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2011-12-17T18:35:50Z",
+            "owner": "TrafficLab",
+            "repo": "oflib-node",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OCaml OpenFlow",
+          "description": "A serialization and protocol library for OpenFlow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2015-07-16T17:12:42Z",
+            "owner": "frenetic-lang",
+            "repo": "ocaml-openflow",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenNet",
+          "description": "A simulator for software-defined wireless local area network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-09-20T13:03:11Z",
+            "owner": "dlinknctu",
+            "repo": "OpenNet",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multinet",
+          "description": "The goal of Multinet is to provide a fast, controlled and resource-efficient way to boot large-scale SDN topologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-02-28T12:05:37Z",
+            "owner": "intracom-telecom-sdn",
+            "repo": "multinet",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Simulator / Emulator"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "oftest",
+          "description": "OpenFlow Testing Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-25T18:49:13Z",
+            "owner": "floodlight",
+            "repo": "oftest",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OFLOPS",
+          "description": "OpenFlow Operations Per Second. A benchmarking suite for openflow switches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-22T01:35:00Z",
+            "owner": "mininet",
+            "repo": "oflops",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Test Tool"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardwares"
+    },
+    {
+      "description": "TBD",
+      "items": [],
+      "title": "OpenFlow Switch"
+    },
+    {
+      "description": "TBD",
+      "items": [],
+      "title": "NetFPGA"
+    },
+    {
+      "description": "TBD",
+      "items": [],
+      "title": "Chips"
+    },
+    {
+      "description": "Please go to ONF SDN Reading List. Thanks again to ONF!",
+      "items": [],
+      "title": "Research Papers"
+    },
+    {
+      "description": "Although ONF SDN Reading List has been very comprehensive, we may also find some other interesting papers. We will update this list into ONF SDN Reading List if necessary.\nTBD",
+      "items": [],
+      "title": "Additional Research Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Communities"
+    },
+    {
+      "description": "Thanks to Open Networking Foundation for summarizing the awesome paper reading list.\nThanks to SDNDS-TW for drafting the awesome list of SDN software resources.",
+      "items": [],
+      "title": "Acknowledgement"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:12:22.608Z",
+    "original_repository": "snlab-freedom/awesome-sdn",
+    "original_repository_sha": "082b1cca3ffc9b3d56e47dd7da5999979f61cd18",
+    "enhanced_repository": "enhansome/enhansome-sdn",
+    "enhanced_repository_description": null,
+    "title": "Awesome - Software Defined Networking with stars"
+  }
+}
