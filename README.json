@@ -24,7 +24,7 @@
             "last_commit": "2024-04-26T21:23:22Z",
             "owner": "floodlight",
             "repo": "floodlight",
-            "stars": 772
+            "stars": 773
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2024-10-19T18:35:05Z",
             "owner": "noxrepo",
             "repo": "pox",
-            "stars": 648
+            "stars": 649
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2014-02-14T18:21:39Z",
             "owner": "noxrepo",
             "repo": "nox",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -406,7 +406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:22:57.113Z",
+    "last_updated": "2026-08-16T07:23:22.256Z",
     "original_repository": "snlab-freedom/awesome-sdn",
     "original_repository_sha": "082b1cca3ffc9b3d56e47dd7da5999979f61cd18",
     "enhanced_repository": "enhansome/enhansome-sdn",

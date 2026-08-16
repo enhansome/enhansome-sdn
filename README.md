@@ -1,8 +1,8 @@
 # Awesome - Software Defined Networking with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,884 | 🐛 100 | 📅 2026-06-30 [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,249 | 🐛 100 | 📅 2026-06-30 [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
 
-A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,085 | 🐛 210 | 🌐 Go | 📅 2026-08-14 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,176 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
+A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,178 | 🐛 207 | 🌐 Go | 📅 2026-08-16 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,177 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 
@@ -59,9 +59,9 @@ The initial version is forked from [SDNDS-TW][Awesome SDN from sdnds-tw] but re-
 
 ### Controller
 
-* [Floodlight](https://github.com/floodlight/floodlight) ⭐ 772 | 🐛 61 | 🌐 Java | 📅 2024-04-26 - A java-based openflow controller.
-* [POX](https://github.com/noxrepo/pox) ⭐ 648 | 🐛 48 | 🌐 Python | 📅 2024-10-19 - A networking software platform written in Python
-* [NOX](https://github.com/noxrepo/nox) ⭐ 146 | 🐛 5 | 🌐 C++ | 📅 2014-02-14 - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+* [Floodlight](https://github.com/floodlight/floodlight) ⭐ 773 | 🐛 61 | 🌐 Java | 📅 2024-04-26 - A java-based openflow controller.
+* [POX](https://github.com/noxrepo/pox) ⭐ 649 | 🐛 48 | 🌐 Python | 📅 2024-10-19 - A networking software platform written in Python
+* [NOX](https://github.com/noxrepo/nox) ⭐ 147 | 🐛 5 | 🌐 C++ | 📅 2014-02-14 - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
 * [Beehive Network Controller](https://github.com/kandoo/beehive-netctrl) ⭐ 73 | 🐛 2 | 🌐 Go | 📅 2016-03-14 - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
 * [NodeFlow](https://github.com/gaberger/NodeFLow) ⭐ 59 | 🐛 1 | 🌐 JavaScript | 📅 2012-06-25 - An OpenFlow Controller Node Style.
 * [Vyatta](https://github.com/BRCDcomm/BVC/) ⭐ 43 | 🐛 2 | 📅 2015-10-17 - The first commercial Controller built directly from OpenDaylight.
@@ -234,4 +234,4 @@ Thanks to [SDNDS-TW](https://github.com/sdnds-tw) for drafting the awesome list 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
