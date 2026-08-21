@@ -144,7 +144,7 @@
                 "last_commit": "2026-07-30T10:02:42Z",
                 "owner": "snabbco",
                 "repo": "snabb",
-                "stars": 3034
+                "stars": 3032
               }
             },
             {
@@ -380,7 +380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:33:01.590Z",
+    "last_updated": "2026-08-21T07:35:06.603Z",
     "original_repository": "snlab-freedom/awesome-sdn",
     "original_repository_id": 82297251,
     "original_repository_sha": "082b1cca3ffc9b3d56e47dd7da5999979f61cd18",

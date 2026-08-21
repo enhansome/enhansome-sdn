@@ -1,8 +1,8 @@
 # Awesome - Software Defined Networking with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,930 | 🐛 104 | 📅 2026-08-18 [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,388 | 🐛 105 | 📅 2026-08-18 [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
 
-A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,629 | 🐛 214 | 🌐 Go | 📅 2026-08-19 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,178 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
+A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,755 | 🐛 215 | 🌐 Go | 📅 2026-08-21 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,176 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 
@@ -75,7 +75,7 @@ The initial version is forked from [SDNDS-TW][Awesome SDN from sdnds-tw] but re-
 
 ### Software Switch
 
-* [snabbswitch](https://github.com/SnabbCo/snabbswitch) ⭐ 3,034 | 🐛 15 | 🌐 Lua | 📅 2026-07-30 - An open source virtualized Ethernet networking stack.
+* [snabbswitch](https://github.com/SnabbCo/snabbswitch) ⭐ 3,032 | 🐛 15 | 🌐 Lua | 📅 2026-07-30 - An open source virtualized Ethernet networking stack.
 * [CPqD](https://github.com/CPqD/ofsoftswitch13) ⭐ 308 | 🐛 48 | 🌐 C | 📅 2023-07-06- An OpenFlow 1.3 compatible user-space software switch implementation
 * [LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) ⭐ 211 | 🐛 84 | 🌐 Erlang | 📅 2015-08-26 - A pure OpenFlow software switch written in Erlang
 * [Indigo](https://github.com/floodlight/indigo) ⭐ 63 | 🐛 4 | 🌐 C | 📅 2023-09-29 - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
@@ -102,7 +102,7 @@ TBD
 ### Network Programming Language
 
 * [P4](http://p4.org/) - A declarative language for expressing how packets are processed by the pipeline of a network forwarding element such as a switch, NIC, router or network function appliance.
-* [Frenetic](https://github.com/frenetic-lang/frenetic) ⭐ 230 | 🐛 21 | 🌐 OCaml | 📅 2023-11-14 - The Frenetic Programming Language and Runtime System
+* [Frenetic](https://github.com/frenetic-lang/frenetic) ⭐ 229 | 🐛 21 | 🌐 OCaml | 📅 2023-11-14 - The Frenetic Programming Language and Runtime System
 * [Pyretic](http://www.frenetic-lang.org/pyretic/) - Pyretic is one member of the Frenetic family of SDN programming languages.
 * [NEMO](https://wiki.onosproject.org/display/ONOS/NEMO+Language) - A domain specific language (DSL) based on abstraction of network models and conclusion of operation patterns.
 
@@ -234,4 +234,4 @@ Thanks to [SDNDS-TW](https://github.com/sdnds-tw) for drafting the awesome list 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
