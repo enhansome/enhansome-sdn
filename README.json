@@ -201,6 +201,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Frenetic",
+              "description": "The Frenetic Programming Language and Runtime System",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7257740,
+                "language": "OCaml",
+                "last_commit": "2023-11-14T20:04:35Z",
+                "owner": "frenetic-lang",
+                "repo": "frenetic",
+                "stars": 229
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Network Programming Language"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "FlowVisor",
               "description": "An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.",
               "children": [],
@@ -342,6 +364,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "NetIDE",
+              "description": "Enable Network App programs to be executed, systematically tested, and refined on a variety of concrete SDN platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26442054,
+                "language": "Java",
+                "last_commit": "2022-12-07T22:12:22Z",
+                "owner": "fp7-netide",
+                "repo": "Engine",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NetDevOp"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "oftest",
               "description": "OpenFlow Testing Framework.",
               "children": [],
@@ -380,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:50:39.127Z",
+    "last_updated": "2026-08-24T14:48:09.111Z",
     "original_repository": "snlab-freedom/awesome-sdn",
     "original_repository_id": 82297251,
     "original_repository_sha": "082b1cca3ffc9b3d56e47dd7da5999979f61cd18",
