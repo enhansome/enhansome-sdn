@@ -424,9 +424,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:38:21.020Z",
-    "original_repository": "snlab-freedom/awesome-sdn",
-    "original_repository_id": 82297251,
+    "last_updated": "2026-08-27T12:06:16.800Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 82297251,
+      "language": null,
+      "last_commit": "2017-04-24T04:11:12Z",
+      "owner": "snlab-freedom",
+      "repo": "awesome-sdn",
+      "stars": 52
+    },
     "original_repository_sha": "082b1cca3ffc9b3d56e47dd7da5999979f61cd18",
     "enhanced_repository": "enhansome/enhansome-sdn",
     "enhanced_repository_description": null,
