@@ -18,7 +18,8 @@
                 "owner": "floodlight",
                 "repo": "floodlight",
                 "stars": 773
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "noxrepo",
                 "repo": "pox",
                 "stars": 648
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "noxrepo",
                 "repo": "nox",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "kandoo",
                 "repo": "beehive-netctrl",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "gaberger",
                 "repo": "NodeFLow",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "BRCDcomm",
                 "repo": "BVC",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "GlobalNOC",
                 "repo": "OESS",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "ravel-net",
                 "repo": "ravel",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             }
           ],
           "description": null,
@@ -145,7 +153,8 @@
                 "owner": "snabbco",
                 "repo": "snabb",
                 "stars": 3032
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "CPqD",
                 "repo": "ofsoftswitch13",
                 "stars": 307
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "FlowForwarding",
                 "repo": "LINC-Switch",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "floodlight",
                 "repo": "indigo",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             }
           ],
           "description": null,
@@ -212,7 +224,8 @@
                 "owner": "frenetic-lang",
                 "repo": "frenetic",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             }
           ],
           "description": null,
@@ -234,7 +247,8 @@
                 "owner": "opennetworkinglab",
                 "repo": "flowvisor",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "os-libera",
                 "repo": "OpenVirteX",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             }
           ],
           "description": null,
@@ -271,7 +286,8 @@
                 "owner": "floodlight",
                 "repo": "loxigen",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -286,7 +302,8 @@
                 "owner": "rlenglet",
                 "repo": "openfaucet",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "TrafficLab",
                 "repo": "oflib-node",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "frenetic-lang",
                 "repo": "ocaml-openflow",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             }
           ],
           "description": null,
@@ -338,7 +357,8 @@
                 "owner": "dlinknctu",
                 "repo": "OpenNet",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -353,7 +373,8 @@
                 "owner": "intracom-telecom-sdn",
                 "repo": "multinet",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             }
           ],
           "description": null,
@@ -375,7 +396,8 @@
                 "owner": "fp7-netide",
                 "repo": "Engine",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             }
           ],
           "description": null,
@@ -397,7 +419,8 @@
                 "owner": "floodlight",
                 "repo": "oftest",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             },
             {
               "node_type": "item",
@@ -412,7 +435,8 @@
                 "owner": "mininet",
                 "repo": "oflops",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T19:09:30.971Z"
             }
           ],
           "description": null,
@@ -424,7 +448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:59:08.248Z",
+    "last_updated": "2026-08-28T19:09:30.971Z",
     "original_repository_info": {
       "archived": false,
       "id": 82297251,
