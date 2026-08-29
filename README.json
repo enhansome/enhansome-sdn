@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Floodlight SDN OpenFlow Controller",
+                "homepage": "www.projectfloodlight.org",
                 "id": 2784643,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-26T21:23:22Z",
+                "open_issues": 61,
                 "owner": "floodlight",
                 "repo": "floodlight",
-                "stars": 773
+                "stars": 773,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The POX network software platform",
+                "homepage": "https://noxrepo.github.io/pox-doc/html/",
                 "id": 3382021,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-19T18:35:05Z",
+                "open_issues": 48,
                 "owner": "noxrepo",
                 "repo": "pox",
-                "stars": 648
+                "stars": 648,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The NOX Controller",
+                "homepage": null,
                 "id": 4037619,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2014-02-14T18:21:39Z",
+                "open_issues": 5,
                 "owner": "noxrepo",
                 "repo": "nox",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -60,12 +75,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed SDN controller built on top of beehive.",
+                "homepage": null,
                 "id": 23765198,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2016-03-14T04:20:33Z",
+                "open_issues": 2,
                 "owner": "kandoo",
                 "repo": "beehive-netctrl",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "go",
+                  "openflow",
+                  "openflow-controller",
+                  "sdn",
+                  "sdn-controller"
+                ]
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -76,12 +102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example No.de based OpenFLow Controller",
+                "homepage": null,
                 "id": 2609077,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2012-06-25T20:22:56Z",
+                "open_issues": 1,
                 "owner": "gaberger",
                 "repo": "NodeFLow",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -92,12 +123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brocade Vyatta Controller Repo",
+                "homepage": "https://github.com/BRCDcomm/BVC/",
                 "id": 29315416,
                 "language": null,
+                "license": null,
                 "last_commit": "2015-10-17T12:20:13Z",
+                "open_issues": 2,
                 "owner": "BRCDcomm",
                 "repo": "BVC",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -108,12 +144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Network Development and Deployment Initiative (NDDI), a partnership between Internet2, Indiana University and others was formed to create a new network platform and complementary software, which together will support global scientific research in a revolutionary new way. The Open Exchange Software Suite (OESS) is the first software product to emerge from this partnership. Internet2's 100G nationwide AL2S network is also a product of this effort.",
+                "homepage": "http://globalnoc.iu.edu/sdn/oess.html",
                 "id": 26506782,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-04-12T06:19:01Z",
+                "open_issues": 66,
                 "owner": "GlobalNOC",
                 "repo": "OESS",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -124,12 +165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Database-Defined Network Controller",
+                "homepage": "http://ravel-net.org/",
                 "id": 52828509,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-06-20T13:31:52Z",
+                "open_issues": 0,
                 "owner": "ravel-net",
                 "repo": "ravel",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             }
@@ -147,12 +193,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snabb: Simple and fast packet networking",
+                "homepage": null,
                 "id": 4857740,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T10:02:42Z",
+                "open_issues": 15,
                 "owner": "snabbco",
                 "repo": "snabb",
-                "stars": 3032
+                "stars": 3032,
+                "topics": [
+                  "luajit",
+                  "networking",
+                  "nfv-framework",
+                  "userspace-driver",
+                  "userspace-networking"
+                ]
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -163,12 +220,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenFlow 1.3 switch. ",
+                "homepage": "http://cpqd.github.com/ofsoftswitch13",
                 "id": 5151916,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-07-06T15:22:21Z",
+                "open_issues": 48,
                 "owner": "CPqD",
                 "repo": "ofsoftswitch13",
-                "stars": 307
+                "stars": 307,
+                "topics": [
+                  "openflow",
+                  "sdn",
+                  "sdn-switch"
+                ]
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -179,12 +245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenFlow Software Switch written in Erlang",
+                "homepage": "http://flowforwarding.org",
                 "id": 3835817,
                 "language": "Erlang",
+                "license": "NOASSERTION",
                 "last_commit": "2015-08-26T16:06:22Z",
+                "open_issues": 84,
                 "owner": "FlowForwarding",
                 "repo": "LINC-Switch",
-                "stars": 211
+                "stars": 211,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -195,12 +266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Core OpenFlow agent and infrastructure modules",
+                "homepage": null,
                 "id": 9015507,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-29T16:20:51Z",
+                "open_issues": 4,
                 "owner": "floodlight",
                 "repo": "indigo",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             }
@@ -218,12 +294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Frenetic Programming Language and Runtime System",
+                "homepage": "http://www.frenetic-lang.org/",
                 "id": 7257740,
                 "language": "OCaml",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-14T20:04:35Z",
+                "open_issues": 22,
                 "owner": "frenetic-lang",
                 "repo": "frenetic",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             }
@@ -241,12 +322,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "FlowVisor - A network hypervisor",
+                "homepage": null,
                 "id": 5787628,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2013-09-18T19:06:18Z",
+                "open_issues": 84,
                 "owner": "opennetworkinglab",
                 "repo": "flowvisor",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -257,12 +343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The OpenVirteX Virtualization Platform",
+                "homepage": "http://www.openvirtex.com/",
                 "id": 11513137,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-12-17T03:41:29Z",
+                "open_issues": 7,
                 "owner": "os-libera",
                 "repo": "OpenVirteX",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             }
@@ -280,12 +371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenFlow protocol bindings for multiple languages",
+                "homepage": null,
                 "id": 8866326,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-15T11:32:31Z",
+                "open_issues": 25,
                 "owner": "floodlight",
                 "repo": "loxigen",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -296,12 +392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenFlow 1.0.0 protocol implementation",
+                "homepage": "http://rlenglet.github.com/openfaucet/index.html",
                 "id": 1270260,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2012-10-10T05:35:12Z",
+                "open_issues": 0,
                 "owner": "rlenglet",
                 "repo": "openfaucet",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -312,12 +413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Oflib for Node.js",
+                "homepage": null,
                 "id": 2694748,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2011-12-17T18:35:50Z",
+                "open_issues": 0,
                 "owner": "TrafficLab",
                 "repo": "oflib-node",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -328,12 +434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serialization library for OpenFlow",
+                "homepage": null,
                 "id": 11212193,
                 "language": "OCaml",
+                "license": "NOASSERTION",
                 "last_commit": "2015-07-16T17:12:42Z",
+                "open_issues": 17,
                 "owner": "frenetic-lang",
                 "repo": "ocaml-openflow",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             }
@@ -351,12 +462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Simulator for Software-Defined Wireless Local Area Network",
+                "homepage": null,
                 "id": 13626841,
                 "language": "Shell",
+                "license": "GPL-2.0",
                 "last_commit": "2017-09-20T13:03:11Z",
+                "open_issues": 49,
                 "owner": "dlinknctu",
                 "repo": "OpenNet",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -367,12 +483,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large-scale SDN emulator based on Mininet",
+                "homepage": null,
                 "id": 44257038,
                 "language": "Python",
+                "license": "EPL-1.0",
                 "last_commit": "2017-02-28T12:05:37Z",
+                "open_issues": 2,
                 "owner": "intracom-telecom-sdn",
                 "repo": "multinet",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             }
@@ -390,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "App Engine to enable Network App programs to be executed, systematically tested, and refined on a variety of concrete SDN platforms",
+                "homepage": null,
                 "id": 26442054,
                 "language": "Java",
+                "license": "EPL-1.0",
                 "last_commit": "2022-12-07T22:12:22Z",
+                "open_issues": 24,
                 "owner": "fp7-netide",
                 "repo": "Engine",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             }
@@ -413,12 +539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenFlow Switch Test Framework",
+                "homepage": "oftest.openflowhub.org",
                 "id": 3151457,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-25T18:49:13Z",
+                "open_issues": 32,
                 "owner": "floodlight",
                 "repo": "oftest",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             },
@@ -429,12 +560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of oflops (cbench) from git://gitosis.stanford.edu/oflops.git",
+                "homepage": null,
                 "id": 35512422,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-22T01:35:00Z",
+                "open_issues": 6,
                 "owner": "mininet",
                 "repo": "oflops",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
             }
@@ -448,15 +584,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:09:30.971Z",
+    "last_updated": "2026-08-29T05:06:16.362Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome list of papers, projects and communities about SDN.",
+      "homepage": null,
       "id": 82297251,
       "language": null,
+      "license": "MIT",
       "last_commit": "2017-04-24T04:11:12Z",
+      "open_issues": 3,
       "owner": "snlab-freedom",
       "repo": "awesome-sdn",
-      "stars": 52
+      "stars": 52,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "sdn"
+      ]
     },
     "original_repository_sha": "082b1cca3ffc9b3d56e47dd7da5999979f61cd18",
     "enhanced_repository": "enhansome/enhansome-sdn",
