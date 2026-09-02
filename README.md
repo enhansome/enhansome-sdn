@@ -1,8 +1,8 @@
 # Awesome - Software Defined Networking with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,897 | 🐛 105 | 📅 2026-08-21 [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,203 | 🐛 105 | 📅 2026-09-02 [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
 
-A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,861 | 🐛 224 | 🌐 Go | 📅 2026-09-01 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,183 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
+A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,939 | 🐛 223 | 🌐 Go | 📅 2026-09-02 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,182 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 
@@ -234,4 +234,4 @@ Thanks to [SDNDS-TW](https://github.com/sdnds-tw) for drafting the awesome list 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
