@@ -18,7 +18,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2024-04-26T21:23:22Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "floodlight",
                 "repo": "floodlight",
                 "stars": 773,
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:03:10.801Z",
+    "last_updated": "2026-09-06T11:26:54.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers, projects and communities about SDN.",
