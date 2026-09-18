@@ -42,7 +42,7 @@
                 "open_issues": 48,
                 "owner": "noxrepo",
                 "repo": "pox",
-                "stars": 648,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:19:16.067Z",
+    "last_updated": "2026-09-18T11:59:08.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers, projects and communities about SDN.",
