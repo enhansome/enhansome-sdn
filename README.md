@@ -1,8 +1,8 @@
 # Awesome - Software Defined Networking with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,258 | 🐛 106 | 📅 2026-09-02 [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,687 | 🐛 106 | 📅 2026-09-02 [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
 
-A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,105 | 🐛 231 | 🌐 Go | 📅 2026-09-28 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,199 | 🐛 38 | 🌐 TeX | 📅 2024-01-18.
+A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,226 | 🐛 231 | 🌐 Go | 📅 2026-09-28 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,200 | 🐛 38 | 🌐 TeX | 📅 2024-01-18.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 
@@ -109,7 +109,7 @@ TBD
 ### Network Virtualization
 
 * [FlowVisor](https://github.com/opennetworkinglab/flowvisor) ⚠️ Archived - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
-* [OpenVirtex](https://github.com/opennetworkinglab/OpenVirteX) ⭐ 102 | 🐛 7 | 🌐 Java | 📅 2023-12-17 - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
+* [OpenVirtex](https://github.com/opennetworkinglab/OpenVirteX) ⭐ 103 | 🐛 7 | 🌐 Java | 📅 2023-12-17 - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
 
 ### Library
 
@@ -234,4 +234,4 @@ Thanks to [SDNDS-TW](https://github.com/sdnds-tw) for drafting the awesome list 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

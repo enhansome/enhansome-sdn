@@ -352,7 +352,7 @@
                 "open_issues": 7,
                 "owner": "os-libera",
                 "repo": "OpenVirteX",
-                "stars": 102,
+                "stars": 103,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:33:43.253Z",
+    "last_updated": "2026-09-30T13:12:01.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers, projects and communities about SDN.",
