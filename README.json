@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:16:21.855Z",
+    "last_updated": "2026-10-18T11:53:12.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers, projects and communities about SDN.",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "snlab-freedom",
       "repo": "awesome-sdn",
-      "stars": 52,
+      "stars": 53,
       "topics": [
         "awesome",
         "awesome-list",
