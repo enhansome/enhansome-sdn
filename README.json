@@ -42,7 +42,7 @@
                 "open_issues": 40,
                 "owner": "noxrepo",
                 "repo": "pox",
-                "stars": 648,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
@@ -63,7 +63,7 @@
                 "open_issues": 5,
                 "owner": "noxrepo",
                 "repo": "nox",
-                "stars": 147,
+                "stars": 148,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
@@ -202,7 +202,7 @@
                 "open_issues": 18,
                 "owner": "snabbco",
                 "repo": "snabb",
-                "stars": 3032,
+                "stars": 3033,
                 "topics": [
                   "luajit",
                   "networking",
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T14:57:46.725Z",
+    "last_updated": "2026-11-05T15:03:14.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers, projects and communities about SDN.",
