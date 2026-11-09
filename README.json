@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "floodlight",
                 "repo": "floodlight",
-                "stars": 770,
+                "stars": 769,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:09:30.971Z"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:58:25.171Z",
+    "last_updated": "2026-11-09T16:59:30.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers, projects and communities about SDN.",
