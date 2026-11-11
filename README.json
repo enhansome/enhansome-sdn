@@ -202,7 +202,7 @@
                 "open_issues": 18,
                 "owner": "snabbco",
                 "repo": "snabb",
-                "stars": 3033,
+                "stars": 3034,
                 "topics": [
                   "luajit",
                   "networking",
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:19:22.497Z",
+    "last_updated": "2026-11-11T14:49:36.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers, projects and communities about SDN.",
