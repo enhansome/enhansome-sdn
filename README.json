@@ -199,7 +199,7 @@
                 "language": "Lua",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-17T11:58:37Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "snabbco",
                 "repo": "snabb",
                 "stars": 3035,
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T16:35:17.565Z",
+    "last_updated": "2026-11-18T16:03:51.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of papers, projects and communities about SDN.",
