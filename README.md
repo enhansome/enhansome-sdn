@@ -1,8 +1,8 @@
 # Awesome - Software Defined Networking with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,358 | 🐛 104 | 📅 2026-09-02 [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,849 | 🐛 103 | 📅 2026-09-02 [![Build Status](https://travis-ci.org/snlab-freedom/awesome-sdn.svg?branch=master)](https://travis-ci.org/snlab-freedom/awesome-sdn)
 
-A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 194,785 | 🐛 118 | 🌐 Go | 📅 2026-11-19 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,209 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
+A curated list of awesome SDN (Software Defined Networking) papers, projects and communities. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 194,962 | 🐛 116 | 🌐 Go | 📅 2026-11-19 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,208 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 
@@ -75,7 +75,7 @@ The initial version is forked from [SDNDS-TW][Awesome SDN from sdnds-tw] but re-
 
 ### Software Switch
 
-* [snabbswitch](https://github.com/SnabbCo/snabbswitch) ⭐ 3,035 | 🐛 4 | 🌐 Lua | 📅 2026-11-17 - An open source virtualized Ethernet networking stack.
+* [snabbswitch](https://github.com/SnabbCo/snabbswitch) ⭐ 3,034 | 🐛 4 | 🌐 Lua | 📅 2026-11-17 - An open source virtualized Ethernet networking stack.
 * [CPqD](https://github.com/CPqD/ofsoftswitch13) ⭐ 307 | 🐛 48 | 🌐 C | 📅 2023-07-06- An OpenFlow 1.3 compatible user-space software switch implementation
 * [LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) ⭐ 211 | 🐛 84 | 🌐 Erlang | 📅 2015-08-26 - A pure OpenFlow software switch written in Erlang
 * [Indigo](https://github.com/floodlight/indigo) ⭐ 63 | 🐛 4 | 🌐 C | 📅 2023-09-29 - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
@@ -234,4 +234,4 @@ Thanks to [SDNDS-TW](https://github.com/sdnds-tw) for drafting the awesome list 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
